@@ -2,7 +2,7 @@
 
 # Sliding puzzle solution checker.
 
-This modular program uses various mathematical proofs in order to deduce whether any square sliding puzzle is solvable or not. Furthermore, when its solvable it provides you with a lower boundary of the minimum required moves in order to solve the puzzle.
+This modular program uses an algorithm that relies on various mathematical proofs in order to deduce whether any square sliding puzzle is solvable or not. Furthermore, when its solvable it provides you with a lower boundary of the minimum required moves in order to solve the puzzle.
 
 ## Installing / Getting started
 
